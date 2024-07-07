@@ -46,13 +46,13 @@ This is a simple Tic Tac Toe game built using React.js with Vite as the developm
 ## Screenshots
 
 ### Initial Screen
-![Initial Screen](./mnt/data/tic-tac-toe-01.png)
+![Initial Screen](./src/assets/tic-tac-toe-01.png)
 
 ### X Wins
-![X Wins](./mnt/data/tic-tac-toe-02.png)
+![X Wins](./src/assets/tic-tac-toe-02.png)
 
 ### O Wins
-![O Wins](./mnt/data/tic-tac-toe-03.png)
+![O Wins](./src/assets/tic-tac-toe-03.png)
 
 ## Technologies
 
