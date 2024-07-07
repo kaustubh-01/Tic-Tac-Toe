@@ -9,7 +9,6 @@ This is a simple Tic Tac Toe game built using React.js with Vite as the developm
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Installation
 
@@ -60,7 +59,4 @@ This is a simple Tic Tac Toe game built using React.js with Vite as the developm
 - Vite
 - CSS
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
